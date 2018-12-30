@@ -9,3 +9,4 @@ You must have [MiniSAT](http://minisat.se) installed on your system. MiniSAT is 
 3. Input whether you want to solve a sudoku+ or generate a new one.
 4. Enter the name of file which contains the unsolved sudoku.
 5. The solved sudoku or the generated minimal sudoku will be printed in the terminal.
+6. MiniSAT generates 2 extra files in the same directory.
